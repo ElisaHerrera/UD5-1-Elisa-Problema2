@@ -1,5 +1,5 @@
 public class ClasePila {
-    public class Pila {
+    public static class Pila {
         private int[] pila;
         private int top;
         private int tamanioPila;
